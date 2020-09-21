@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pokemon-react-app/static/css/main.228ad90f.chunk.css",
-    "main.js": "/pokemon-react-app/static/js/main.fb49f52f.chunk.js",
-    "main.js.map": "/pokemon-react-app/static/js/main.fb49f52f.chunk.js.map",
-    "runtime-main.js": "/pokemon-react-app/static/js/runtime-main.5f339910.js",
-    "runtime-main.js.map": "/pokemon-react-app/static/js/runtime-main.5f339910.js.map",
-    "static/js/2.a4ad6b3b.chunk.js": "/pokemon-react-app/static/js/2.a4ad6b3b.chunk.js",
-    "static/js/2.a4ad6b3b.chunk.js.map": "/pokemon-react-app/static/js/2.a4ad6b3b.chunk.js.map",
-    "index.html": "/pokemon-react-app/index.html",
-    "precache-manifest.aa9b92cb60e4f00e1571db48c121f3db.js": "/pokemon-react-app/precache-manifest.aa9b92cb60e4f00e1571db48c121f3db.js",
-    "service-worker.js": "/pokemon-react-app/service-worker.js",
-    "static/css/main.228ad90f.chunk.css.map": "/pokemon-react-app/static/css/main.228ad90f.chunk.css.map",
-    "static/js/2.a4ad6b3b.chunk.js.LICENSE.txt": "/pokemon-react-app/static/js/2.a4ad6b3b.chunk.js.LICENSE.txt",
-    "static/media/whos_that_pokemon.png": "/pokemon-react-app/static/media/whos_that_pokemon.50ab3c9f.png"
+    "main.css": "./static/css/main.228ad90f.chunk.css",
+    "main.js": "./static/js/main.fb9207e8.chunk.js",
+    "main.js.map": "./static/js/main.fb9207e8.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d205d416.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d205d416.js.map",
+    "static/js/2.a4ad6b3b.chunk.js": "./static/js/2.a4ad6b3b.chunk.js",
+    "static/js/2.a4ad6b3b.chunk.js.map": "./static/js/2.a4ad6b3b.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.ed41d3eecec695d0fa4c4b30b4e77a94.js": "./precache-manifest.ed41d3eecec695d0fa4c4b30b4e77a94.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.228ad90f.chunk.css.map": "./static/css/main.228ad90f.chunk.css.map",
+    "static/js/2.a4ad6b3b.chunk.js.LICENSE.txt": "./static/js/2.a4ad6b3b.chunk.js.LICENSE.txt",
+    "static/media/whos_that_pokemon.png": "./static/media/whos_that_pokemon.50ab3c9f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f339910.js",
+    "static/js/runtime-main.d205d416.js",
     "static/js/2.a4ad6b3b.chunk.js",
     "static/css/main.228ad90f.chunk.css",
-    "static/js/main.fb49f52f.chunk.js"
+    "static/js/main.fb9207e8.chunk.js"
   ]
 }
